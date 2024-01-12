@@ -1,0 +1,10 @@
+{
+    "/js/public.js": "/js/public.js",
+    "/js/private.js": "/js/private.js",
+    "/js/vue/app.js": "/js/vue/app.js",
+    "/js/vue/app-router.js": "/js/vue/app-router.js",
+    "/css/private.css": "/css/private.css",
+    "/css/public.css": "/css/public.css",
+    "/static/js/file-manager-custom.js": "/static/js/file-manager-custom.js",
+    "/static/css/file-manager-custom.css": "/static/css/file-manager-custom.css"
+}
